@@ -1,0 +1,6 @@
+{
+  "name": "KAZI HUB",
+  "description": "Premium creative marketplace for photographers, videographers, freelancers, and equipment rental across East Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

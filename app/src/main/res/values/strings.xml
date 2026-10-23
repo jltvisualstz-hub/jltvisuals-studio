@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KAZI HUB</string>
+    <string name="tagline">East Africa\'s Creative &amp; Production Marketplace</string>
+    <string name="launch_territory">Arusha, Tanzania</string>
+
+    <!-- Welcome / Onboarding -->
+    <string name="welcome_headline">Elevate East African Creative Production</string>
+    <string name="welcome_subhead">Connect directly with vetted cinematographers, sound recordists, music studios, and high-end equipment packages across Arusha and East Africa.</string>
+    <string name="btn_get_started">Explore Marketplace</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_create_account">Join Network</string>
+    <string name="admin_portal_link">Administrator Sign In</string>
+    <string name="skip">Skip</string>
+    <string name="official_terms">Terms of Service &amp; Escrow Guarantee</string>
+
+    <!-- Language Selector -->
+    <string name="switch_language">Language / Lugha</string>
+    <string name="lang_en">English</string>
+    <string name="lang_sw">Kiswahili</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_home">Explore</string>
+    <string name="nav_freelancers">Talent</string>
+    <string name="nav_equipment">Gear</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_support">Help &amp; Support</string>
+    <string name="nav_admin">Admin Oversight</string>
+
+    <!-- Authentication -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Access your creative bookings, shoots, and cinema gear</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account_prompt">Don\'t have an account yet?</string>
+    <string name="have_account_prompt">Already have an account?</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="register_title">Create KAZI HUB Account</string>
+    <string name="register_subtitle">Select your account type to access specialized tools</string>
+    <string name="full_name_label">Full Name / Official Name</string>
+    <string name="phone_number_label">Phone Number</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="select_country_label">Operational Country</string>
+    <string name="select_role_label">Select Your Account Type</string>
+
+    <!-- Four Distinct Public Account Types -->
+    <string name="role_client_title">Client / Commissioner</string>
+    <string name="role_client_desc">Individuals and brands commissioning creative shoots or renting equipment</string>
+    <string name="role_freelancer_title">Creative Freelancer</string>
+    <string name="role_freelancer_desc">Solo professionals (DoPs, editors, music engineers, drone pilots)</string>
+    <string name="role_company_title">Production Company</string>
+    <string name="role_company_desc">Registered studios, media agencies, and corporate production teams</string>
+    <string name="role_equipment_owner_title">Equipment Owner</string>
+    <string name="role_equipment_owner_desc">Rental houses and gear owners providing production hardware</string>
+    <string name="role_admin_title">Platform Administrator</string>
+
+    <!-- Account-Specific Registration Fields -->
+    <string name="client_organization_name">Organization / Brand Name (Optional)</string>
+    <string name="freelancer_trading_name">Professional / Trading Name</string>
+    <string name="freelancer_primary_craft">Primary Creative Specialization</string>
+    <string name="freelancer_day_rate">Indicative Day Rate</string>
+    <string name="company_registered_name">Registered Business Name</string>
+    <string name="company_tin">Tax Identification Number (TIN)</string>
+    <string name="company_team_size">Production Team Size</string>
+    <string name="company_services">Company Capabilities &amp; Services</string>
+    <string name="equipment_dispatch_location">Gear Warehouse / Dispatch Address</string>
+    <string name="equipment_terms_summary">Standard Rental &amp; Deposit Policy</string>
+
+    <!-- Phone Number Codes & Validation -->
+    <string name="phone_hint_tanzania">e.g. 712 345 678 (Tanzania +255)</string>
+    <string name="phone_hint_kenya">e.g. 712 345 678 (Kenya +254)</string>
+    <string name="phone_hint_uganda">e.g. 712 345 678 (Uganda +256)</string>
+    <string name="phone_hint_rwanda">e.g. 712 345 678 (Rwanda +250)</string>
+    <string name="phone_invalid_error">Please enter a valid phone number for the selected country</string>
+
+    <!-- Creative Services Catalogue (Music vs Video Recording) -->
+    <string name="cat_music_recording">Music Recording &amp; Audio Production</string>
+    <string name="cat_music_recording_desc">Studio tracking, vocal booths, beat making, audio mixing &amp; mastering</string>
+    <string name="cat_video_recording">Video Recording &amp; Cinematography</string>
+    <string name="cat_video_recording_desc">Commercial video, documentaries, events, interviews, DoP &amp; camera crew</string>
+    <string name="cat_photography">Photography &amp; Studio Shoots</string>
+    <string name="cat_sound_engineering">Location Sound &amp; Audio Engineering</string>
+    <string name="cat_drone_aerial">Drone &amp; Aerial Filming</string>
+    <string name="cat_lighting_grip">Lighting &amp; Grip Services</string>
+    <string name="cat_post_production">Video Editing &amp; Colour Grading</string>
+    <string name="cat_motion_graphics">Motion Graphics &amp; Visual FX</string>
+    <string name="cat_live_streaming">Live Streaming &amp; Broadcast</string>
+    <string name="cat_studio_hire">Production Studio &amp; Stage Hire</string>
+    <string name="cat_script_directing">Scriptwriting, Directing &amp; Coordination</string>
+
+    <!-- Equipment Rental Categories (Beyond Cameras) -->
+    <string name="eq_cameras_lenses">Cinema Cameras &amp; Lenses</string>
+    <string name="eq_lighting_grip">Lighting &amp; Grip Packages</string>
+    <string name="eq_audio_sound">Audio Rigs, Microphones &amp; Mixers</string>
+    <string name="eq_drones">Drones &amp; Aerial Accessories</string>
+    <string name="eq_led_displays">LED Walls, TV Screens &amp; Displays</string>
+    <string name="eq_projectors">Projectors &amp; Projection Screens</string>
+    <string name="eq_stabilizers">Tripods, Gimbals &amp; Stabilizers</string>
+    <string name="eq_live_stream_gear">Live Streaming &amp; Switchers</string>
+    <string name="eq_studio_gear">Studio Backdrops &amp; Acoustic Panels</string>
+    <string name="eq_power_generators">Batteries, Power Stations &amp; Generators</string>
+    <string name="eq_workstations">Editing Laptops &amp; DIT Workstations</string>
+    <string name="eq_staging">Event Staging &amp; Truss Rigging</string>
+    <string name="eq_teleprompters">Teleprompters &amp; Wireless Intercoms</string>
+    <string name="eq_cables_accessories">Cables, Media Cards &amp; Accessories</string>
+
+    <!-- Monetization & 10% Commission -->
+    <string name="commission_title">Platform Commission Breakdown</string>
+    <string name="commission_rate_label">KAZI HUB Fee (10% on completion)</string>
+    <string name="gross_amount_label">Gross Booking Amount</string>
+    <string name="commission_amount_label">Platform Commission (10%)</string>
+    <string name="provider_net_label">Estimated Provider Payout</string>
+    <string name="refundable_deposit_label">Refundable Security Deposit (0% Commission)</string>
+    <string name="commission_notice">No upfront listing fees. KAZI HUB earns 10% commission strictly on eligible completed bookings. Refundable deposits are held separately and are not subject to commission.</string>
+
+    <!-- Booking Center & Delivery Workflows -->
+    <string name="booking_center_title">Booking Center</string>
+    <string name="booking_center_sub">Shoot contracts, gear rental reservations &amp; quotations</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_quotation_submitted">Quotation Submitted</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_awaiting_completion">Awaiting Completion Sign-off</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="status_disputed">Disputed</string>
+
+    <!-- Completion Report -->
+    <string name="completion_report_title">Job Completion Report</string>
+    <string name="completion_deliverables_label">Summary of Delivered Work</string>
+    <string name="completion_file_links_label">Deliverable Cloud Links (Google Drive, Vimeo, Dropbox)</string>
+    <string name="completion_notes_label">Production Notes &amp; Observations</string>
+    <string name="btn_submit_completion">Submit Completion Report</string>
+    <string name="btn_approve_completion">Approve &amp; Release Payout</string>
+    <string name="btn_raise_dispute">Raise Dispute / Report Issue</string>
+
+    <!-- Administrator Portal & Bootstrap -->
+    <string name="admin_workspace_title">Admin Oversight Center</string>
+    <string name="admin_workspace_restricted">Authorized platform management only</string>
+    <string name="admin_sign_in_title">Administrator Authentication</string>
+    <string name="admin_sign_in_sub">Authorized personnel access only</string>
+    <string name="admin_unauthorized_err">Access Denied: Your account does not possess server-issued administrator claims.</string>
+    <string name="admin_bootstrap_info">To provision the initial administrator, run the backend bootstrap CLI targeting the authorized project owner account.</string>
+
+    <!-- Unified Support & Admin Contact -->
+    <string name="support_hotline_label">Official Support &amp; Admin Hotline</string>
+    <string name="support_email_label">Official Contact Email</string>
+    <string name="support_hotline_val">+255 754 000 000</string>
+    <string name="support_email_val">support@kazihub.co.tz</string>
+
+    <!-- Empty States (Arusha Focus) -->
+    <string name="empty_talent_title">No Creatives Registered in Arusha Yet</string>
+    <string name="empty_talent_desc">Be the pioneer! Create your verified professional profile to receive shoot bookings in Arusha and northern Tanzania.</string>
+    <string name="empty_gear_title">No Cinema Gear Listed in Arusha Yet</string>
+    <string name="empty_gear_desc">Have cameras, LED walls, audio systems, or generators in Arusha? List your gear to earn rental income.</string>
+    <string name="empty_bookings_title">You Have No Bookings Yet</string>
+    <string name="empty_bookings_desc">Discover top creative talent or browse production gear to initiate your first reservation.</string>
+    <string name="empty_tickets_title">No Support Tickets</string>
+    <string name="empty_tickets_desc">Need assistance? Contact our central support team or open an inquiry.</string>
+
+    <!-- Buttons & Actions -->
+    <string name="btn_create_profile">Create Profile</string>
+    <string name="btn_add_gear">Add Equipment Listing</string>
+    <string name="btn_find_talent">Find Talent</string>
+    <string name="btn_book_now">Request Booking</string>
+    <string name="btn_save_changes">Save Changes</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>

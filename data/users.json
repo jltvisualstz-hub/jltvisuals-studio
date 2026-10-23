@@ -1,0 +1,40 @@
+[
+  {
+    "id": "usr_1792006542087_fy9x",
+    "name": "David Kweka",
+    "email": "client@test.com",
+    "password": "clientpass123",
+    "roles": [
+      "CLIENT"
+    ],
+    "activeRole": "CLIENT",
+    "country": "TANZANIA",
+    "city": "Arusha",
+    "phoneNumber": "+255 754 889 900",
+    "isAdmin": false,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-14T19:35:42.087Z",
+    "clientType": "INDIVIDUAL",
+    "preferredLanguage": "EN",
+    "updatedAt": "2026-10-15T20:00:31.080Z"
+  },
+  {
+    "id": "usr_admin_1792006599375",
+    "name": "Platform Administrator",
+    "email": "mmosesurio@gmail.com",
+    "roles": [
+      "ADMINISTRATOR"
+    ],
+    "activeRole": "ADMINISTRATOR",
+    "country": "TANZANIA",
+    "isAdmin": true,
+    "status": "ACTIVE",
+    "claims": {
+      "admin": true,
+      "kazi_role": "ADMINISTRATOR",
+      "provisionedAt": "2026-10-14T19:36:39.375Z"
+    },
+    "createdAt": "2026-10-14T19:36:39.375Z",
+    "password": "NewSecureAdminPassword#2026"
+  }
+]

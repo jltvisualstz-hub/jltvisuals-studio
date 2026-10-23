@@ -1,0 +1,251 @@
+[
+  {
+    "id": "eq_001",
+    "ownerId": "usr_owner_001",
+    "ownerName": "Kilimanjaro Cine Rentals",
+    "ownerContact": "+255 765 112 233",
+    "title": "Sony FX6 Cinema Line Full Frame Kit",
+    "category": "Cameras and lenses",
+    "modelSpecs": "4K Full-Frame 10.2MP Sensor, DCI 4K 120fps, S-Cinetone, Dual Base ISO 800/12800",
+    "condition": "Mint",
+    "dailyRate": 350000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 500000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Arusha CBD & Moshi Dispatch",
+    "pickupDeliveryTerms": "Studio pickup in Arusha or technician delivery to shoot location",
+    "includedAccessories": [
+      "Sony 24-70mm f/2.8 GM II",
+      "2x 160GB CFexpress Type A cards",
+      "3x BP-U60 Batteries & Dual Charger",
+      "Hard Pelican Flight Case",
+      "Top Handle & Audio Unit"
+    ],
+    "description": "Industry benchmark documentary & commercial cinema rig. Ideal for safari films, commercials, and high-end video production across northern Tanzania.",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T10:00:00.000Z",
+    "updatedAt": "2026-10-15T20:01:46.505Z"
+  },
+  {
+    "id": "eq_002",
+    "ownerId": "usr_owner_002",
+    "ownerName": "Serengeti Lights & Grip Co.",
+    "ownerContact": "+255 712 345 678",
+    "title": "Aputure 600d Pro Daylight LED with Light Dome III",
+    "category": "Lighting and grip",
+    "modelSpecs": "600W Daylight Point-Source LED, 96+ CRI/TLCI, IP54 Weather-resistant, Bowens mount",
+    "condition": "Excellent",
+    "dailyRate": 180000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 200000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Njiro, Arusha",
+    "pickupDeliveryTerms": "Includes heavy C-stand and sandbags. Delivery available within Arusha.",
+    "includedAccessories": [
+      "Light Dome III Softbox",
+      "Hyper Reflector 55°",
+      "Heavy-Duty Stainless C-Stand",
+      "2x 10kg Sandbags",
+      "Rolling flight trunk"
+    ],
+    "description": "Massive daylight output fixture capable of punching through windows or powering exterior day shoots in harsh sunlight.",
+    "images": [
+      "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T10:15:00.000Z"
+  },
+  {
+    "id": "eq_003",
+    "ownerId": "usr_owner_001",
+    "ownerName": "Kilimanjaro Cine Rentals",
+    "ownerContact": "+255 765 112 233",
+    "title": "Sennheiser MKH 416 Boom Mic & Sound Devices MixPre-6 II",
+    "category": "Audio and sound equipment",
+    "modelSpecs": "32-bit Float Recording, Shotgun RF Condenser, Ultra-low noise Kashmir preamps",
+    "condition": "Mint",
+    "dailyRate": 220000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 300000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Arusha Central Hub",
+    "pickupDeliveryTerms": "Complete field sound package with Rycote blimp wind protection.",
+    "includedAccessories": [
+      "Rycote Windshield Blimp & Deadcat",
+      "K-Tek 3.5m Carbon Fiber Boompole",
+      "Sound Devices MixPre-6 II",
+      "2x Sony NP-F970 Batteries",
+      "Sony MDR-7506 Monitor Headphones"
+    ],
+    "description": "World-standard location sound kit for documentaries, commercials, film dialogues, and wild animal acoustics.",
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T11:00:00.000Z"
+  },
+  {
+    "id": "eq_004",
+    "ownerId": "usr_owner_003",
+    "ownerName": "East Africa Drone Services",
+    "ownerContact": "+254 722 998 877",
+    "title": "DJI Inspire 3 Cinema Drone with Zenmuse X9-8K Air",
+    "category": "Drones",
+    "modelSpecs": "8K CinemaDNG / Apple ProRes RAW, RTK centimetre-level positioning, dual-operator control",
+    "condition": "Brand New",
+    "dailyRate": 850000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 1500000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Arusha Airport / Kilimanjaro Dispatch",
+    "pickupDeliveryTerms": "Must be hired with TCAA certified commercial UAV pilot or licensed technician.",
+    "includedAccessories": [
+      "Zenmuse X9-8K Air Camera",
+      "DL 24mm, 35mm & 50mm Lenses",
+      "6x TB51 Intelligent Flight Batteries",
+      "2x RC Plus Master/Slave Controllers",
+      "1TB PROSSD & High-speed Reader"
+    ],
+    "description": "Top-tier cinematic aerial platform for feature films, wildlife reserves, tourism documentaries, and national campaigns.",
+    "images": [
+      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T11:30:00.000Z"
+  },
+  {
+    "id": "eq_005",
+    "ownerId": "usr_owner_004",
+    "ownerName": "Habari Broadcast & Live AV",
+    "ownerContact": "+255 784 555 444",
+    "title": "P2.6 High-Refresh Indoor/Outdoor LED Video Wall (4m x 2.5m)",
+    "category": "TV screens, commercial displays, and LED walls",
+    "modelSpecs": "P2.6mm Pixel Pitch, 3840Hz Refresh Rate, 1200 nits, NovaStar VX1000 All-in-one Controller",
+    "condition": "Excellent",
+    "dailyRate": 1400000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 1000000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Arusha International Conference Centre Area",
+    "pickupDeliveryTerms": "Includes truss mounting system, transport truck, and two certified LED technicians.",
+    "includedAccessories": [
+      "NovaStar VX1000 Video Processor",
+      "Rigging bars & Ground Support Base",
+      "Power distribution rack (32A 3-phase)",
+      "Spare LED modules and receiving cards",
+      "HDMI / SDI multi-input switchers"
+    ],
+    "description": "Broadcast-grade seamless LED video wall for corporate conferences, live concert visuals, hybrid summits, and awards shows.",
+    "images": [
+      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T12:00:00.000Z"
+  },
+  {
+    "id": "eq_006",
+    "ownerId": "usr_owner_004",
+    "ownerName": "Habari Broadcast & Live AV",
+    "ownerContact": "+255 784 555 444",
+    "title": "Blackmagic ATEM Television Studio HD8 ISO & 4x Micro Studio Cameras",
+    "category": "Live-streaming and broadcast equipment",
+    "modelSpecs": "8x 3G-SDI Inputs, ISO recording of all 8 inputs, internal cloud sync, hardware audio mixer",
+    "condition": "Mint",
+    "dailyRate": 480000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 600000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Arusha & Dar es Salaam",
+    "pickupDeliveryTerms": "Ready-to-fly portable broadcast flight rack with SDI snake cables.",
+    "includedAccessories": [
+      "4x 100m Belden 1694A SDI drums",
+      "MultiView 24-inch Director Monitor",
+      "Talkback & Tally Intercom System",
+      "UPS Power Backup 2000VA",
+      "Live YouTube/Facebook stream encoder"
+    ],
+    "description": "Turnkey multi-camera live switching and streaming rig for worship services, sports coverage, conferences, and studio shows.",
+    "images": [
+      "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T12:30:00.000Z"
+  },
+  {
+    "id": "eq_007",
+    "ownerId": "usr_owner_002",
+    "ownerName": "Serengeti Lights & Grip Co.",
+    "ownerContact": "+255 712 345 678",
+    "title": "DJI RS 3 Pro Gimbal Combo with LiDAR Autofocus",
+    "category": "Tripods, rigs, stabilizers, and gimbals",
+    "modelSpecs": "4.5kg payload capacity, Carbon fiber arms, LiDAR range finder 43,200 points, Transmission module",
+    "condition": "Excellent",
+    "dailyRate": 120000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 200000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Arusha",
+    "pickupDeliveryTerms": "Includes balance counterweights and Ronin expansion base.",
+    "includedAccessories": [
+      "DJI Transmission Transmitter",
+      "LiDAR Autofocus Motor & Cable",
+      "Dual Handgrips and Briefcase Handle",
+      "Extended Quick Release Baseplate",
+      "Flight safety foam case"
+    ],
+    "description": "Professional camera stabilization system for heavy cinema setups with continuous autofocus on manual prime lenses.",
+    "images": [
+      "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T13:00:00.000Z"
+  },
+  {
+    "id": "eq_008",
+    "ownerId": "usr_owner_005",
+    "ownerName": "Savannah Post & Digital DIT",
+    "ownerContact": "+255 754 889 900",
+    "title": "Mobile DIT Station: Apple M3 Max MacBook Pro + 32TB RAID & Calibrated OLED",
+    "category": "Editing computers and workstations",
+    "modelSpecs": "M3 Max 16-Core CPU 40-Core GPU 128GB RAM, OWC 32TB Thunderbolt 3 RAID, Flanders DM240 Monitor",
+    "condition": "Mint",
+    "dailyRate": 400000,
+    "currency": "TZS",
+    "rateUnit": "day",
+    "depositAmount": 700000,
+    "availability": "AVAILABLE",
+    "country": "TANZANIA",
+    "location": "Arusha Safari Hub",
+    "pickupDeliveryTerms": "Mobile field cart with solar/inverter battery backup for on-location offloading in game reserves.",
+    "includedAccessories": [
+      "Inovativ Voyager 36 EVO Cart",
+      "ShotPut Pro & Silverstack Lab License",
+      "EcoFlow Delta 2 Max Power Station",
+      "Card readers (CFexpress, RED Mini-Mag, SD)",
+      "UPS surge suppression"
+    ],
+    "description": "On-set data management, checksum offloads, color dailies, and rough assembly editing for remote or multi-day expeditions.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isPublished": true,
+    "createdAt": "2026-10-14T13:30:00.000Z"
+  }
+]

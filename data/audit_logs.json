@@ -1,0 +1,314 @@
+[
+  {
+    "id": "audit_1792435623411_4svc1",
+    "action": "BOOKING_STATUS_CHANGED",
+    "actor": "Kilimanjaro Cine Rentals",
+    "timestamp": "2026-10-19T18:47:03.411Z",
+    "outcome": "SUCCESS",
+    "details": "Booking KB-2026-9678 updated to CONFIRMED"
+  },
+  {
+    "id": "audit_1792435581277_8i6rf",
+    "action": "BOOKING_CREATED",
+    "actor": "neema@client.co.tz",
+    "timestamp": "2026-10-19T18:46:21.277Z",
+    "outcome": "SUCCESS",
+    "details": "Booking KB-2026-9678 submitted to Kilimanjaro Cine Rentals"
+  },
+  {
+    "id": "audit_1792435561094_b19kc",
+    "action": "BOOKING_CREATED",
+    "actor": "neema@client.co.tz",
+    "timestamp": "2026-10-19T18:46:01.094Z",
+    "outcome": "SUCCESS",
+    "details": "Booking KB-2026-5660 submitted to Baraka Mnyika"
+  },
+  {
+    "id": "audit_1792094506505_sh270",
+    "action": "EQUIPMENT_PUBLISHED",
+    "actor": "Kilimanjaro Cine Rentals",
+    "timestamp": "2026-10-15T20:01:46.505Z",
+    "outcome": "SUCCESS",
+    "details": "Listing Sony FX6 Cinema Line Full Frame Kit set to PUBLISHED"
+  },
+  {
+    "id": "audit_1792094502989_wo004",
+    "action": "EQUIPMENT_UNPUBLISHED",
+    "actor": "Kilimanjaro Cine Rentals",
+    "timestamp": "2026-10-15T20:01:42.989Z",
+    "outcome": "SUCCESS",
+    "details": "Listing Sony FX6 Cinema Line Full Frame Kit set to UNPUBLISHED"
+  },
+  {
+    "id": "audit_1792094498833_3nm1o",
+    "action": "BOOKING_CREATED",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-15T20:01:38.833Z",
+    "outcome": "SUCCESS",
+    "details": "Booking KB-2026-9536 submitted to Kilimanjaro Cine Rentals"
+  },
+  {
+    "id": "audit_1792094467107_efdmp",
+    "action": "BOOKING_CREATED",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-15T20:01:07.107Z",
+    "outcome": "SUCCESS",
+    "details": "Booking KB-2026-6100 submitted to Baraka Mnyika"
+  },
+  {
+    "id": "audit_1792094431080_egxni",
+    "action": "USER_PROFILE_UPDATED",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-15T20:00:31.080Z",
+    "outcome": "SUCCESS",
+    "details": "User profile successfully updated for client@test.com"
+  },
+  {
+    "id": "audit_1792007882099_wteg2",
+    "action": "ADMIN_CLEARANCE_DENIED",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-14T19:58:02.099Z",
+    "outcome": "REJECTED",
+    "details": "Account lacks server-managed Firebase Admin claims ({ admin: true })"
+  },
+  {
+    "id": "audit_1792007877578_1ar4b",
+    "action": "ADMIN_LOGIN_SUCCESS",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:57:57.578Z",
+    "outcome": "SUCCESS",
+    "details": "Administrator authenticated with server-verified claims ({ admin: true })"
+  },
+  {
+    "id": "audit_1792007873404_2bk4m",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:57:53.404Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792007856219_xxvly",
+    "action": "ADMIN_PASSWORD_RESET_SUCCESS",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:57:36.219Z",
+    "outcome": "SUCCESS",
+    "details": "Administrator password successfully updated following verified recovery. Administrative claims preserved."
+  },
+  {
+    "id": "audit_1792007832366_l3t2x",
+    "action": "PASSWORD_RESET_REJECTED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:57:12.367Z",
+    "outcome": "REJECTED",
+    "details": "Firebase Authentication not configured for password recovery"
+  },
+  {
+    "id": "audit_1792007584330_91f71",
+    "action": "PASSWORD_RESET_REJECTED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:53:04.330Z",
+    "outcome": "REJECTED",
+    "details": "Firebase Authentication not configured for password recovery"
+  },
+  {
+    "id": "audit_1792007403257_jeppa",
+    "action": "PASSWORD_RESET_DISPATCH",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:50:03.257Z",
+    "outcome": "SUCCESS",
+    "details": "Password reset requested for mmosesurio@gmail.com"
+  },
+  {
+    "id": "audit_1792006944553_ddynf",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:42:24.553Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006913818_0gcmp",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:41:53.818Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006855064_ychif",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:40:55.064Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006839020_xsypv",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:40:39.020Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006812626_54kri",
+    "action": "PASSWORD_RESET_DISPATCH",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:40:12.626Z",
+    "outcome": "SUCCESS",
+    "details": "Password reset requested for mmosesurio@gmail.com"
+  },
+  {
+    "id": "audit_1792006792475_6hgdt",
+    "action": "PASSWORD_RESET_DISPATCH",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:39:52.475Z",
+    "outcome": "SUCCESS",
+    "details": "Password reset requested for mmosesurio@gmail.com"
+  },
+  {
+    "id": "audit_1792006771957_lj9q1",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:39:31.957Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006758628_c73uw",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:39:18.628Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006743170_u69kh",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:39:03.170Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006679325_778y9",
+    "action": "ADMIN_LOGIN_SUCCESS",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:37:59.325Z",
+    "outcome": "SUCCESS",
+    "details": "Administrator authenticated with server-verified claims ({ admin: true })"
+  },
+  {
+    "id": "audit_1792006673204_s40iz",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:37:53.204Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006659834_finb8",
+    "action": "ADMIN_LOGIN_SUCCESS",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:37:39.834Z",
+    "outcome": "SUCCESS",
+    "details": "Administrator authenticated with server-verified claims ({ admin: true })"
+  },
+  {
+    "id": "audit_1792006659833_tjuvq",
+    "action": "ADMIN_PASSWORD_SET",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:37:39.833Z",
+    "outcome": "SUCCESS",
+    "details": "Master password established on initial administrator login"
+  },
+  {
+    "id": "audit_1792006636696_toatw",
+    "action": "ADMIN_LOGIN_SUCCESS",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:37:16.696Z",
+    "outcome": "SUCCESS",
+    "details": "Administrator authenticated with server-verified claims ({ admin: true })"
+  },
+  {
+    "id": "audit_1792006631430_a19an",
+    "action": "ADMIN_LOGIN_SUCCESS",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:37:11.430Z",
+    "outcome": "SUCCESS",
+    "details": "Administrator authenticated with server-verified claims ({ admin: true })"
+  },
+  {
+    "id": "audit_1792006612687_5f0eu",
+    "action": "PROVISION_REJECTED_LOCKED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:36:52.687Z",
+    "outcome": "REJECTED",
+    "details": "Attempt to run initial provisioning on locked system"
+  },
+  {
+    "id": "audit_cli_1792006599376",
+    "action": "ADMIN_PROVISIONED_VIA_CLI",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:36:39.376Z",
+    "outcome": "SUCCESS",
+    "details": "Administrator privileges and server custom claim { admin: true } assigned via scripts/provision-admin.js"
+  },
+  {
+    "id": "audit_1792006576425_lcsow",
+    "action": "PASSWORD_RESET_DISPATCH",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:36:16.425Z",
+    "outcome": "REJECTED",
+    "details": "Password reset requested for mmosesurio@gmail.com"
+  },
+  {
+    "id": "audit_1792006571347_q5fyy",
+    "action": "PROVISION_UNAUTHORIZED_IDENTITY",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-14T19:36:11.347Z",
+    "outcome": "REJECTED",
+    "details": "Email \"client@test.com\" does not match designated initial administrator \"mmosesurio@gmail.com\""
+  },
+  {
+    "id": "audit_1792006566628_mdnal",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-14T19:36:06.628Z",
+    "outcome": "REJECTED",
+    "details": "Incorrect credentials entered"
+  },
+  {
+    "id": "audit_1792006561869_6yhnd",
+    "action": "ADMIN_CLEARANCE_DENIED",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-14T19:36:01.869Z",
+    "outcome": "REJECTED",
+    "details": "Account lacks server-managed Firebase Admin claims ({ admin: true })"
+  },
+  {
+    "id": "audit_1792006542087_f1gt7",
+    "action": "USER_REGISTERED",
+    "actor": "client@test.com",
+    "timestamp": "2026-10-14T19:35:42.087Z",
+    "outcome": "SUCCESS",
+    "details": "Public account registered with role: CLIENT"
+  },
+  {
+    "id": "audit_1792006527672_paorf",
+    "action": "PROVISION_UNAUTHORIZED_IDENTITY",
+    "actor": "intruder@evil.com",
+    "timestamp": "2026-10-14T19:35:27.672Z",
+    "outcome": "REJECTED",
+    "details": "Email \"intruder@evil.com\" does not match designated initial administrator \"mmosesurio@gmail.com\""
+  },
+  {
+    "id": "audit_1792006522729_kiln9",
+    "action": "ADMIN_LOGIN_FAILED",
+    "actor": "mmosesurio@gmail.com",
+    "timestamp": "2026-10-14T19:35:22.729Z",
+    "outcome": "REJECTED",
+    "details": "User account does not exist in platform registry"
+  }
+]

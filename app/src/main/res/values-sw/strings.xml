@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KAZI HUB</string>
+    <string name="tagline">Soko Kuu la Ubunifu na Uzalishaji Afrika Mashariki</string>
+    
+    <!-- Welcome / Onboarding -->
+    <string name="welcome_headline">Kuinua Kiwango cha Uzalishaji Afrika Mashariki</string>
+    <string name="welcome_subhead">Ungana na wapiga picha bora, watayarishaji wa video, wataalamu wa sauti na vifaa vya kisasa kote Tanzania, Kenya, Uganda na Rwanda.</string>
+    <string name="btn_get_started">Anza Sasa</string>
+    <string name="btn_sign_in">Ingia</string>
+    <string name="btn_create_account">Fungua Akaunti</string>
+    <string name="skip">Ruka</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Gundua</string>
+    <string name="nav_freelancers">Wataalamu</string>
+    <string name="nav_equipment">Vifaa</string>
+    <string name="nav_bookings">Makubaliano</string>
+    <string name="nav_messages">Ujumbe</string>
+    <string name="nav_dashboard">Dashibodi</string>
+    <string name="nav_profile">Wasifu</string>
+    <string name="nav_support">Msaada na Huduma</string>
+
+    <!-- Auth & Roles -->
+    <string name="login_title">Karibu Tena</string>
+    <string name="login_subtitle">Fikia mtandao wako wa ubunifu na kazi zinazoendelea</string>
+    <string name="email_label">Barua Pepe</string>
+    <string name="password_label">Nenosiri</string>
+    <string name="forgot_password">Umesahau Nenosiri?</string>
+    <string name="register_title">Jiunge na KAZI HUB</string>
+    <string name="register_subtitle">Chagua majukumu yako kwenye soko ili kuanza</string>
+    <string name="full_name_label">Jina Kamili / Jina la Kampuni</string>
+    <string name="select_country_label">Nchi Unayoishi</string>
+    <string name="select_role_label">Chagua Majukumu Yako</string>
+
+    <!-- Roles -->
+    <string name="role_client">Mteja / Mtoa Kazi</string>
+    <string name="role_freelancer">Mbunifu / Mtaalamu Huru</string>
+    <string name="role_equipment_owner">Mmiliki wa Vifaa</string>
+    <string name="role_production_house">Kampuni ya Uzalishaji</string>
+    <string name="role_admin">Msimamizi wa Mfumo</string>
+
+    <!-- East African Countries & Currencies -->
+    <string name="country_tanzania">Tanzania</string>
+    <string name="country_kenya">Kenya</string>
+    <string name="country_uganda">Uganda</string>
+    <string name="country_rwanda">Rwanda</string>
+    <string name="currency_tzs">TZS (Shilingi ya Tanzania)</string>
+    <string name="currency_kes">KES (Shilingi ya Kenya)</string>
+    <string name="currency_ugx">UGX (Shilingi ya Uganda)</string>
+    <string name="currency_rwf">RWF (Faranga ya Rwanda)</string>
+    <string name="currency_usd">USD ($)</string>
+
+    <!-- Booking Center -->
+    <string name="booking_center_title">Kituo cha Makubaliano</string>
+    <string name="booking_center_sub">Mikataba ya utengenezaji, vifaa na nukuu za bei</string>
+    <string name="filter_all">Yote</string>
+    <string name="filter_pending">Inasubiri</string>
+    <string name="filter_confirmed">Imethibitishwa</string>
+    <string name="filter_in_progress">Inaendelea</string>
+    <string name="filter_completed">Imekamilika</string>
+    <string name="filter_cancelled">Imeghairiwa</string>
+    <string name="filter_disputed">Kwenye Mgogoro</string>
+
+    <!-- Customer Care -->
+    <string name="customer_care_title">Huduma kwa Wateja na Msaada</string>
+    <string name="customer_care_sub">Msaada rasmi, usuluhishi wa migogoro na tiketi</string>
+    <string name="submit_ticket">Fungua Tiketi ya Msaada</string>
+    <string name="my_tickets">Tiketi Zangu za Msaada</string>
+    <string name="faq_title">Maswali Yanayoulizwa Mara kwa Mara</string>
+
+    <!-- Admin Workspace -->
+    <string name="admin_workspace_title">Kituo Kikuu cha Usimamizi</string>
+    <string name="admin_workspace_restricted">Inaruhusiwa kwa wasimamizi walioidhinishwa pekee</string>
+
+    <!-- State & Demo notices -->
+    <string name="demo_mode_banner">Hali ya Maonyesho • Ukaguzi wa Awamu ya 1.1</string>
+    <string name="switch_role">Badili Eneo la Kazi</string>
+    <string name="switch_language">Language / Lugha</string>
+</resources>

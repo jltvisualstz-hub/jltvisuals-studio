@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KaziHubFirestoreBlueprint",
+  "description": "Blueprint schema for KAZI HUB East African Creative & Equipment Marketplace",
+  "entities": {
+    "users": {
+      "title": "UserProfile",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "profileImageUrl": { "type": "string" },
+        "phoneNumber": { "type": "string" },
+        "country": { "type": "string", "enum": ["TANZANIA", "KENYA", "UGANDA", "RWANDA"] },
+        "roles": { "type": "array", "items": { "type": "string" } },
+        "activeRole": { "type": "string" },
+        "isIdentityVerified": { "type": "boolean" },
+        "createdAtEpochMs": { "type": "integer" }
+      },
+      "required": ["id", "email", "displayName", "roles", "country"]
+    },
+    "creatives": {
+      "title": "CreativeProfile",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "fullName": { "type": "string" },
+        "titleTagline": { "type": "string" },
+        "primaryCategory": { "type": "string" },
+        "indicativeDayRate": { "type": "integer" },
+        "currencyCode": { "type": "string" },
+        "isVerifiedPro": { "type": "boolean" },
+        "averageRating": { "type": "number" },
+        "reviewsCount": { "type": "integer" }
+      },
+      "required": ["id", "userId", "fullName", "primaryCategory", "indicativeDayRate", "currencyCode"]
+    },
+    "equipment": {
+      "title": "EquipmentItem",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "brandModel": { "type": "string" },
+        "category": { "type": "string" },
+        "dailyRate": { "type": "integer" },
+        "currencyCode": { "type": "string" },
+        "condition": { "type": "string" }
+      },
+      "required": ["id", "title", "category", "dailyRate", "currencyCode"]
+    },
+    "bookings": {
+      "title": "BookingRecord",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "clientId": { "type": "string" },
+        "providerId": { "type": "string" },
+        "title": { "type": "string" },
+        "startDate": { "type": "string" },
+        "endDate": { "type": "string" },
+        "agreedAmount": { "type": "integer" },
+        "currencyCode": { "type": "string" },
+        "status": { "type": "string" },
+        "quotation": { "type": "object" },
+        "dispute": { "type": "object" },
+        "completionReport": { "type": "object" }
+      },
+      "required": ["id", "clientId", "providerId", "status", "agreedAmount", "currencyCode"]
+    }
+  }
+}

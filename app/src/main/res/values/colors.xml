@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KAZI HUB Brand Colors -->
+    <color name="kazi_background">#080B14</color>
+    <color name="kazi_background_secondary">#111827</color>
+    <color name="kazi_card">#171A24</color>
+    <color name="kazi_gold">#D6AD62</color>
+    <color name="kazi_gold_light">#E5C384</color>
+    <color name="kazi_bronze">#A97943</color>
+    <color name="kazi_text_primary">#F5F3EE</color>
+    <color name="kazi_text_secondary">#A6ADBB</color>
+    
+    <color name="kazi_accent_green">#10B981</color>
+    <color name="kazi_accent_red">#EF4444</color>
+    <color name="kazi_border">#232838</color>
+</resources>
